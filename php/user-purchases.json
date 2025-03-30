@@ -1,0 +1,12 @@
+{
+    "purchases": [
+        {
+            "username": "test1",
+            "cardIndex": "4"
+        },
+        {
+            "username": "test1",
+            "cardIndex": "5"
+        }
+    ]
+}

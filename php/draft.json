@@ -1,0 +1,15 @@
+{
+    "draftCards": [
+        {
+            "name": "Spearow 2",
+            "type": "ground",
+            "hp": "232",
+            "attack": "123",
+            "defense": "455",
+            "price": "345",
+            "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+            "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/021.png",
+            "owner": null
+        }
+    ]
+}
